@@ -1,0 +1,1 @@
+The code in this project is taken from GRPC HelloWorld example program, and GoogleTest code repository (on how to add Google Test to a CMake Project).
